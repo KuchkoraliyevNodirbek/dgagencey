@@ -1,0 +1,192 @@
+.contacts_links {
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 162px;
+  height: 33px;
+  top: 132px;
+  left: 106px;
+  gap: 0px;
+  opacity: 0px;
+
+  margin-left: auto;
+  margin-right: auto;
+  li:nth-child(2) {
+    color: orange;
+    margin-left: 10px;
+  }
+}
+.contacts_item {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 33.36px;
+  text-align: left;
+}
+.contacts_titles {
+  width: 320px;
+  height: 135px;
+  top: 198px;
+  left: 27px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 45.12px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contacts_texts {
+  padding-top: 35px;
+  width: 263px;
+  height: 31px;
+  top: 366px;
+  left: 56px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 22.5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero_contacts_about {
+  padding-bottom: 70px;
+}
+.hero_contacts_img {
+  width: 330px;
+  height: 167.42px;
+  top: 484px;
+  left: 22px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contacts_call {
+  padding-top: 50px;
+}
+.call1 {
+  width: 221px;
+  height: 30px;
+  top: 731px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contacts_inputs_title_ {
+  width: 104px;
+  height: 44px;
+  top: 1194px;
+  left: 136px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 43.58px;
+  text-align: left;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.contacts_inputs_text {
+  text-align: center;
+}
+.inputs_name {
+  input {
+    width: 153.08px;
+    height: 48.51px;
+
+    opacity: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+// input[type="text"],
+// input[type="password"] {
+//   width: 100%;
+//   padding: 5px;
+// }
+.form_all4 {
+  display: flex;
+  // gap: 10px;
+  width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+}
+#username {
+  // padding: 8px;
+  width: 150px;
+  border-radius: 10px;
+  // border: none;
+  border: 1px solid gray;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+#password {
+  width: 150px;
+  padding: 5px;
+
+  // padding: 12px;
+  border-radius: 10px;
+  // border: none;
+  border: 1px solid gray;
+  // padding: 8px;
+  border-radius: 10px;
+  // border: none;
+  border: 1px solid gray;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#email {
+  width: 335px;
+  padding: 5px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.form-group {
+  padding: 5px;
+  width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+}
+button[type="submit"] {
+  display: block;
+  margin: 0;
+  width: 335px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  height: 50px;
+  // padding: 10px;
+  background-color: orange;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+#message {
+  width: 335px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}

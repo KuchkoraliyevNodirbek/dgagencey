@@ -1,0 +1,155 @@
+._navbar_links {
+  ul {
+    text-align: center;
+    display: flex;
+    li {
+      font-family: Poppins;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 33.36px;
+      text-align: center;
+      margin-left: 15px;
+      padding-left: 45px;
+      color: white;
+      a:first-child {
+        color: gray;
+      }
+      //   color: orange;
+    }
+  }
+}
+.online {
+  color: orange;
+}
+.services_navbar_bottom {
+  width: 320px;
+  height: 265px;
+  top: 132px;
+  left: 27px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title_services {
+  width: 320px;
+  height: 135px;
+  top: 198px;
+  left: 27px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 45.12px;
+  text-align: center;
+}
+
+.services_text {
+  width: 263px;
+  height: 31px;
+  top: 366px;
+  left: 56px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 22.5px;
+  text-align: center;
+}
+.navbar_bottom_bottom {
+  width: 318px;
+  height: 188px;
+  top: 464px;
+  left: 28px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #f4f4f4;
+  border-radius: 10px;
+}
+.navbar_bottom_card {
+  display: flex;
+  margin: 25px;
+  width: 111px;
+  height: 54px;
+  top: 495px;
+  left: 53px;
+  gap: 0px;
+  border-radius: 70px 0px 0px 0px;
+  opacity: 0px;
+}
+.navbar_bottom_left {
+  padding-right: 10px;
+}
+.navbar_bottom_right {
+  width: 64px;
+  height: 54px;
+  top: 495px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+}
+._bottom_title_services {
+  font-family: Rubik;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+}
+._bottom_services_text {
+  font-family: Rubik;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+}
+.lorems_services_all_title {
+  width: 300px;
+  height: 163px;
+  top: 713px;
+  left: 28px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lorems_services_all_titles {
+  width: 300px;
+  height: 76px;
+  top: 713px;
+  left: 28px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 37.9px;
+  text-align: left;
+}
+.lorems_services_all_text {
+  width: 273px;
+  height: 69px;
+  top: 807px;
+  left: 28px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22.5px;
+  text-align: left;
+}
+.lorem__ipsum {
+  display: flex;
+  gap: 10px;
+  padding-top: 10px;
+}
+.lorems_ipsums {
+  padding-top: 50px;
+}
